@@ -1,0 +1,22 @@
+$color-prussianblue: #083c5d
+$color-skyblue: #328cc1
+$color-gold: #d9b310
+$color-black: #1d2731
+
+$background-color: white
+$font-color: white
+$font-color-inv: #1d2731
+
+
+body
+  color: $font-color-inv
+
+.head
+  background-color: $color-black
+  color: $font-color
+  text-align: right
+
+
+.container
+  background-color: $background-color
+  color: $font-color-inv

@@ -1,0 +1,6 @@
+LoggingFileUse:   false
+LoggingFile:      log/hanson.log
+LoggingLevel:     debug
+
+WebserverDebug:   true
+WebserverPort:    8080
