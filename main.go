@@ -2,10 +2,11 @@ package main
 
 import (
 	"flag"
-	"hanson/utils/config"
-	"hanson/utils/css"
-	"hanson/utils/logging"
-	"hanson/web"
+
+	"./utils/config"
+	"./utils/css"
+	"./utils/logging"
+	"./web"
 
 	log "github.com/Sirupsen/logrus"
 )

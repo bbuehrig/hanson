@@ -3,8 +3,9 @@
 package web
 
 import (
-	"hanson/controllers"
 	"net/http"
+
+	"../controllers"
 
 	log "github.com/Sirupsen/logrus"
 	"github.com/gorilla/websocket"

@@ -38,5 +38,6 @@ func Login(c *gin.Context) {
 	// Delete Password
 	data.Password = ""
 	data.Username = "hanson"
+	data.Email = "hanson@hanson.com"
 	c.JSON(http.StatusOK, data)
 }

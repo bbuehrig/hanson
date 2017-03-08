@@ -4,9 +4,10 @@ package logging
 
 import (
 	"fmt"
-	"hanson/utils/config"
 	"io"
 	"os"
+
+	"../config"
 
 	log "github.com/Sirupsen/logrus"
 )
